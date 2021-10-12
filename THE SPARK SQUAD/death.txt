@@ -1,0 +1,241 @@
+
+
+					
+	USA		
+226273		
+	India		
+116068			
+	Brazil		
+154888			
+	Russia		
+24952			
+	Spain		
+34210			
+	Argentina	
+27100		
+	Colombia		
+29272		
+	France		
+33885		
+	Peru			
+33875		
+	Mexico		
+86893		
+	UK		
+43967		
+	SouthAfrica	
+18656		
+	Iran			
+31346		
+	Chile		
+13719		
+	Iraq		
+10418		
+	Bangladesh	
+5723			
+	Germany		
+9962		
+	Indonesia373,109	
+12857		
+	Philippines	
+6747			
+	Turkey		
+9445			
+	Saudi Arabia	
+5235		
+	Pakistan	
+6692		
+	Ukraine		
+5927		
+	Israel	        
+2278		
+	Netherlands	
+6873		
+	Belgium
+10489		
+	Canada		
+9803		
+        Poland
+3851			
+	Czechia		
+1619		
+	Romania			
+6065			
+	Morocco			
+3027			
+	Ecuador		
+12404			
+	Nepal			
+791		
+	Bolivia		
+8526		
+	Qatar			
+225		
+	Panama		
+2585		
+	DominicanRepublic 
+2204			
+	UAE		
+472			
+	Kuwait		
+721		
+	Oman		
+1137		
+	Kazakhstan	
+1796		
+	Sweden		
+5929			
+	Portugal	
+2229		
+	Egypt			
+6142			
+	Guatemala	
+3546			
+	Costa Rica	
+1222			
+	Japan		
+1679			
+	Switzerland	
+2027			
+	Ethiopia		
+1371		
+	Honduras	
+2582			
+	Belarus		
+941			
+	Venezuela		
+747			
+	China			
+4634			
+	Bahrain			
+307			
+	Austria			
+925			
+	Armenia		
+1121			
+	Moldova		
+1617		
+	Lebanon			
+531			
+	Uzbekistan	
+534			
+	Nigeria		
+1125		
+	Singapore 	
+28		
+	Paraguay		
+1231		
+	Algeria			
+1873		
+	Kyrgyzstan	
+1118			
+	Ireland			
+1865			
+	Libya			
+765			
+	Hungary		
+1259			
+	Palestine		
+421			
+	Ghana			
+312			
+	Azerbaijan	
+642		
+	Kenya			
+858			
+	Tunisia		
+711		
+	Jordan		
+414			
+	Afghanistan	
+1501	          	
+	Myanmar		
+972			
+	Serbia	  	
+781			
+	Denmark			
+690
+        Bosnia
+1031		
+	Slovakia		
+98		
+	ElSalvador 	
+933		
+	Bulgaria	
+1019		
+	Croatia			
+393			
+	Australia 	
+905			
+	Greece			
+528			
+	SouthKorea	
+450			
+	NorthMacedonia	
+850			
+	Malaysia	
+199			
+	Cameroon		
+425		
+	Georgia	 	
+172			
+	Ivory Coast	
+121			
+	Albania		
+462			
+	Norway		
+279			
+	Madagascar	
+238			
+	Zambia			
+346		
+	Slovenia		
+200			
+	Montenegro	
+247			
+	Senegal			
+321			
+	Finland			
+355			
+	Sudan			
+836			
+	Namibia			
+132		
+	Guinea			
+70			
+	Maldives	
+37		
+	Luxembourg	
+136			
+	Mozambique	
+78			
+	DRC		
+303			
+	Uganda			
+98			
+	Tajikistan	
+80			
+	FrenchGuiana	
+69			
+	Haiti		
+231			
+	Gabon			
+54			
+	Jamaica			
+174			
+	Lithuania		
+120			
+	Zimbabwe		
+233			
+	Angola			
+251			
+	Cabo Verde	
+87			
+	Mauritania	
+163			
+	Guadeloupe		
+			
+	Cuba		
+127			
+	Bahamas		
+124			

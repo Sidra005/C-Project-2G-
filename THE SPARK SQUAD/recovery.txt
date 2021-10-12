@@ -1,0 +1,239 @@
+
+
+   				
+	USA			
+5548054	
+	India			
+6812889	
+	Brazil			
+4721593	
+	Russia			
+1096560	
+	Spain				
+000	
+	Argentina			
+829647	
+	Colombia		
+876731	
+	France			
+106839	
+	Peru				
+788494	
+	Mexico				
+627584	
+	UK				
+00	
+	SouthAfrica			
+639568	
+	Iran				
+438709	
+	Chile			
+468269	
+	Iraq				
+369010	
+	Italy				
+255005	
+	Bangladesh393,131			
+308845	
+	Germany				
+302100	
+	Indonesia			
+297509	
+	Philippines			
+311506	
+	Turkey				
+306939	
+	Saudi Arabia		
+329715
+	Pakistan				
+308674	
+	Ukraine				
+132219	
+	Israel	       		
+283205	
+	Netherlands253,134			
+00	
+	Belgium				
+21476	
+	Canada				
+172462	
+	Poland			
+98884	
+	Czechia				
+79108	
+       Romania					
+137835	
+	Morocco					
+148838	
+	Ecuador					
+134187	
+	Nepal					
+99605	
+	Bolivia					
+109526	
+	Qatar				
+127093	
+	Panama				
+102028	
+	DominicanRepublic 	
+99271	
+	UAE			
+111814	
+	Kuwait			
+109916	
+	Oman			
+97367	
+	Kazakhstan		
+105301
+	Sweden			
+00	
+	Portugal		
+63238	
+	Egypt			
+98413	
+	Guatemala		
+91604	
+	Costa Rica		
+60109	
+	Japan			
+87107	
+	Switzerland		
+54600	
+	Ethiopia		
+43638	
+	Honduras		
+35930	
+	Belarus			
+80905	
+	Venezuela		
+80316	
+	China			
+80834	
+	Bahrain			
+75089	
+	Austria			
+52617	
+	Armenia			
+49219	
+	Moldova			
+49083	
+	Lebanon			
+29498	
+	Uzbekistan		
+61068	
+	Nigeria			
+56797	
+	Singapore		
+57821	
+	Paraguay		
+37167	
+	Algeria		       
+38346	
+	Kyrgyzstan	
+46444	
+	Ireland			
+23364	
+	Libya			
+28440	
+	Hungary		
+14905	
+	Palestine		
+41455	
+	Ghana			
+46752	
+	Azerbaijan		
+40448	
+	Kenya			
+32760	
+	Tunisia			
+5032	
+	Jordan			
+7123	
+	Afghanistan        
+33824  	
+	Myanmar		
+18865	
+	Serbia			
+31536	
+	Denmark			
+30432	
+	Bosnia 			
+25779	
+	Slovakia		
+8404	
+	ElSalvador		
+27670	
+	Bulgaria		
+17414	
+	Croatia			
+21435	
+	Australia		
+25147	
+	Greece			
+9989	
+	SouthKorea	
+23584	
+	NorthMacedonia		
+17673	
+	Malaysia		
+14931	
+	Cameroon		
+20117	
+	Georgia		
+9003	
+	Ivory Coast		
+20044	
+	Albania			
+10341	
+	Norway			
+11863	
+	Madagascar	
+16215	
+	Zambia			
+15168	
+	Slovenia	
+6922	
+	Montenegro		
+11581	
+	Senegal         	
+13975	
+	Finland			
+9800	
+	Sudan			
+6764	
+	Namibia			
+10528	
+	Guinea		
+10461	
+	Maldives		
+10234	
+	Luxembourg		
+8471	
+	Mozambique		
+9007	
+	DRC			
+1054	
+	Tajikistal		
+9668	
+	FrenchGuiana	
+9995	
+	Haiti			
+8452	
+	Jamaica	
+4016	
+	Lithuania		
+3599	
+	Zimbabwe		
+7692	
+	Angola			
+3037	
+	Cabo Verde	
+6792	
+	Mauritania
+1233		
+	Guadeloupe		
+2199	
+	Cuba			
+5814	
+	Bahamas			
+3525	
